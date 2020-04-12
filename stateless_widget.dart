@@ -21,7 +21,7 @@ void main(){
           backgroundColor: Colors.green,
         ),
 
-        body: Center(child: new MyPage2()),
+        body: Center(child: new MyPage()),
     
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.favorite),
